@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Context](#context)
+2. [Context](#context) 
 3. [Data](#data)
 4. [Results](#results)
    - [Evidence of Anorexia Post-Treatment](#evidence-of-anorexia-post-treatment)
